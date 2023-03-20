@@ -17,10 +17,10 @@
 
 <br/>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royokite&theme=juicyfresh" alt="royokite" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
-<p align="left" style="float: left;"> 
+<p align="center" style="float: left;"> 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/royokite" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Roy Okite's LinkedIn" /></a> 
   <span>&nbsp;</span>
