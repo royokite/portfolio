@@ -17,7 +17,7 @@
 
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royokite&theme=juicyfresh" alt="royokite" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royokite&theme=juicyfresh&no-frame=true" alt="royokite" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="center" style="float: left;"> 
