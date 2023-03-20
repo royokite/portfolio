@@ -10,17 +10,17 @@
   --
   -->
 
-<h1 align="center">Hi 👋, I'm Roy Okite</h1>
+<h1 align="left">Hi 👋, I'm Roy Okite</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A student of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="left">A student of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royokite&theme=juicyfresh&no-frame=true" alt="royokite" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royokite&theme=juicyfresh&no-frame=true" alt="royokite" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
-<p align="center" style="float: left;"> 
+<p align="left" style="float: left;"> 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/royokite" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Roy Okite's LinkedIn" /></a> 
   <span>&nbsp;</span>
